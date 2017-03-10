@@ -1,7 +1,7 @@
 # vue-momentjs
 A tiny Moment.js wrapper for Vue.
 
-### Installation
+## Installation
 ```bash
 yarn add moment vue-momentjs
 ```
@@ -14,5 +14,5 @@ import VueMomentJS from "vue-momentjs";
 Vue.use(VueMomentJS, moment);
 ```
 
-### Using
+## Usage
 Call `this.$moment()` in any component.

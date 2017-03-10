@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "A tiny Moment.js wrapper for Vue.",
   "main": "index.js",
-  "repository": "https://github.com/KarboniteKream/vue-momentjs",
+  "repository": "git@github.com:KarboniteKream/vue-momentjs.git",
+  "author": "Klemen Košir <klemen.kosir@kream.io>",
+  "license": "MIT",
   "keywords": [
     "vue",
     "moment",
     "wrapper"
   ],
-  "author": "Klemen Košir <klemen.kosir@kream.io>",
-  "license": "MIT",
   "peerDependencies": {
     "vue": ">= 1.0.0"
   }

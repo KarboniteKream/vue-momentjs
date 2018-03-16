@@ -1,6 +1,6 @@
 {
   "name": "vue-momentjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A tiny Moment.js wrapper for Vue.",
   "main": "index.js",
   "repository": "git@github.com:KarboniteKream/vue-momentjs.git",
@@ -12,6 +12,7 @@
     "wrapper"
   ],
   "peerDependencies": {
+    "moment": ">= 1.0.0",
     "vue": ">= 1.0.0"
   }
 }
